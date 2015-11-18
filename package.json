@@ -1,7 +1,7 @@
 {
   "name": "command-copy",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Natively copy selected text in the browser to the clipboard",
   "license": "MIT",
   "repository": "bendrucker/command-copy",
