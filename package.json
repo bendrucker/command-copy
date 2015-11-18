@@ -1,0 +1,33 @@
+{
+  "name": "command-copy",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Natively copy selected text in the browser to the clipboard",
+  "license": "MIT",
+  "repository": "bendrucker/command-copy",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "copy",
+    "browser",
+    "clipboard",
+    "execCommand"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.3",
+    "standard": "^5.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  }
+}
