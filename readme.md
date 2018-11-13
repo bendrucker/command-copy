@@ -1,4 +1,4 @@
-# command-copy [![Build Status](https://travis-ci.org/bendrucker/command-copy.svg?branch=master)](https://travis-ci.org/bendrucker/command-copy)
+# command-copy [![Build Status](https://travis-ci.org/bendrucker/command-copy.svg?branch=master)](https://travis-ci.org/bendrucker/command-copy) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/command-copy.svg)](https://greenkeeper.io/)
 
 > Natively copy selected text in the browser to the clipboard
 
